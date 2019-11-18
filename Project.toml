@@ -1,0 +1,10 @@
+name = "TestSpleeter"
+uuid = "e57b0eb9-cd17-4141-87e0-1a972c1b7854"
+authors = ["WooKyoung Noh <wookay.noh@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+
+[compat]
+julia = "1"
